@@ -48,7 +48,7 @@ An AI-enabled system for forecasting local electricity demand and analysing elec
 | [House Price Prediction](https://github.com/Tejasvi-Ponugoti/PRODIGY_ML_01) | Linear regression using property features such as floor area, bedrooms and bathrooms |
 | [Customer Segmentation](https://github.com/Tejasvi-Ponugoti/PRODIGY_ML_02) | K-means clustering applied to retail customer purchase behaviour |
 | [Cat and Dog Classification](https://github.com/Tejasvi-Ponugoti/PRODIGY_ML_03) | Support vector machine classification using image data |
-| [Food Recognition and Calorie Estimation](https://github.com/Tejasvi-Ponugoti/PRODIGY_ML_04) | Image-based food recognition and dietary analysis |
+| [Food Image Classification](https://github.com/Tejasvi-Ponugoti/PRODIGY_ML_04) | ResNet50 transfer learning applied to Food-101 image subsets |
 
 ## Additional work
 
